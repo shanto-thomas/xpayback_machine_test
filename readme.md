@@ -18,7 +18,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git](https://github.com/shanto-thomas/xpayback_machine_test.git
+   git clone https://github.com/shanto-thomas/xpayback_machine_test.git
    ```
 
 2. Install the dependencies:

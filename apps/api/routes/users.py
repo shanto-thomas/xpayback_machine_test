@@ -53,7 +53,7 @@ async def get_user(user_id: str, request: Request) -> dict:
                     email=data.email,
                     password=data.password,
                     phone=data.phone,
-                    pic=f"{request.base_url}profile-picture/{data.id}")
+                    pic=f"{request.base_url}api/profile-picture/{data.id}")
     raise HTTPException(status_code=400, detail="Does not exists")
 
 

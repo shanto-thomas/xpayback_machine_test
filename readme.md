@@ -84,10 +84,3 @@ Retrieve details of a specific user.
   - `200`: User details retrieved successfully.
   - `404`: User not found.
 
-## Contributions
-
-Contributions are welcome! If you find any issues or would like to add new features or improvements, please submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
